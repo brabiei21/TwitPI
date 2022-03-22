@@ -1,2 +1,2 @@
-hello steve
-YOU BETTER DO YOUR HOMEWORK
+# TwitPi
+A Twiter API to scrape Twitter
